@@ -1,0 +1,8 @@
+{
+  "name": "thingsapp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "http://code.albertabril.com/albert/thingsapp",
+  "author": "Albert Abril <albert.abril@gmail.com>",
+  "license": "MIT"
+}
